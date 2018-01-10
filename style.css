@@ -3,3 +3,8 @@ body {
   font-size: 2em;
   font-family: arial;
 }
+
+article {
+  width: 800px;
+  margin: 0 auto;
+}
