@@ -13,4 +13,5 @@ img {
   display: block;
   border: 1px solid #999;
   margin-top: 10px;
+  max-width: 50%;
 }
